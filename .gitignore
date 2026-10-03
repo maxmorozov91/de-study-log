@@ -11,3 +11,10 @@ wheels/
 
 # VSCode settings
 .vscode
+
+# Environment file
+.env
+
+# Course data
+sql/course-data/
+

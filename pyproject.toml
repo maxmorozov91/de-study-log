@@ -13,5 +13,6 @@ dependencies = [
 [dependency-groups]
 dev = [
     "nbstripout>=0.9.1",
+    "python-dotenv>=1.2.4",
     "types-psycopg2>=2.9.21.20260712",
 ]
