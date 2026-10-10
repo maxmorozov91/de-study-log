@@ -8,7 +8,7 @@ Practice and notes, run against a local Postgres 18 container (see the root READ
 |----------|-------|--------|
 | `01-select-filter-sort.ipynb` | SELECT, WHERE, ORDER BY, GROUP BY basics | Done |
 | `02-joins-set-operations.ipynb` | Joins, set operations | Done |
-| | Row-level functions (string, date, NULL, CASE) | Planned |
+| `03-functions.ipynb` | Row-level functions (string, date, NULL, CASE) | In-progress |
 | | Window functions, including aggregates | Planned |
 | | CTEs and subqueries | Planned |
 | | Query plans (`EXPLAIN ANALYZE`) | Planned |
